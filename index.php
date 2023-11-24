@@ -1,4 +1,4 @@
-<!-- test -->
+<!-- testing -->
 <?php
 session_start();
 
